@@ -1,0 +1,4 @@
+name: MobControl
+version: ${project.version}
+main: me.akameki.mobcontrol.Main
+api-version: 1.16
